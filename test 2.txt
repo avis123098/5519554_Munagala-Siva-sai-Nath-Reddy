@@ -1,3 +1,6 @@
 this is the text 2 of the season hi 
 
-this is where the error finds
+
+=======
+git check out 
+>>>>>>> refs/remotes/origin/main
