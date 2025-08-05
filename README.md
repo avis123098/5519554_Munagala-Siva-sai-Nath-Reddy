@@ -9,3 +9,5 @@
 ## SimpliLearn - GIT Certificate 
 
 ![Image Link](https://github.com/avis123098/5519554_Munagala-Siva-sai-Nath-Reddy/blob/main/Git-GIthub/Screenshot%202025-07-23%20at%209.39.26%E2%80%AFPM.png)
+
+![Image Link](https://github.com/avis123098/5519554_Munagala-Siva-sai-Nath-Reddy/blob/main/C%20Programming%20/introduction%20to%20c.jpg)
